@@ -78,7 +78,7 @@
   "name": "stratum-pool",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RavenCommunity/kawpow-stratum-pool.git"
+    "url": "git+https://github.com/rejie-cpp/kawpow-stratum-pool.git"
   },
   "version": "0.1.6"
 }
